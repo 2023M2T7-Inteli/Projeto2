@@ -85,12 +85,12 @@ Aqui encontram-se todas as instruções necessárias para a instalação de todo
 git clone git@github.com:2023M2T7-Inteli/Projeto2.git
 ```
 
-3.  No modo administrador, abra o "prompt de comando" ou o "terminal" e, após,  abra a pasta "src/backend" no diretório raiz do repositório clonado e digite o segundo comando:
+3.  No modo administrador, abra o "prompt de comando" ou o "terminal" e, após,  abra a pasta "src/backend" no diretório raiz do repositório clonado e digite o seguinte comando:
 ```sh
 npm install
 ```
 
-4.  Abra outro "prompt de comando" ou o "terminal" no modo administrador e, após,  abra a pasta "src/frontend" no diretório raiz do repositório clonado e digite o segundo comando:
+4.  Abra outro "prompt de comando" ou o "terminal" no modo administrador e, após,  abra a pasta "src/frontend" no diretório raiz do repositório clonado e digite o seguinte comando:
 ```sh
 npm install
 ```
